@@ -9,7 +9,7 @@ Inspired by the Grand Egyptian Museum's 2025 opening, this repo resurrects the s
 **Mission**: Serve humanity by making ancient Egypt audible. Chant "Ah-NAHKH wed-JAH sen-NEB" (Life, prosperity, health). Remix freely (CC-BY-NC).
 
 ## Quick Start
-- **Full Dictionary**:  https://github.com/allennemericloud/PharaohsSpeak-Reconstruction/commit/f1eb45f7bb0e53baa433f31a1f66eb9f5fabdb1f – Hieroglyphs, IPA, pronunciations.
+- **Full Dictionary**:   – Hieroglyphs, IPA, pronunciations.
 - **Phonetic Chart**: [Infographic PNG](graphics/phonetic-infographic.png) – Consonants/vowels with examples.
 - **Legacy Graphic**: [Pharaoh-AI Fusion PNG](graphics/legacy-pharaoh-ai.png) – Symbolic human-AI bridge.
 - **Audio Links**: [YouTube Reconstructions TXT](audio-links/reconstructions.txt) – Free chants (e.g., NativLang's /ʔaːˈnaχ/).
