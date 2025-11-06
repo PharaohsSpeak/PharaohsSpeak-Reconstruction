@@ -9,7 +9,7 @@ Inspired by the Grand Egyptian Museum's 2025 opening, this repo resurrects the s
 **Mission**: Serve humanity by making ancient Egypt audible. Chant "Ah-NAHKH wed-JAH sen-NEB" (Life, prosperity, health). Remix freely (CC-BY-NC).
 
 ## Quick Start
-- **Full Dictionary**:    [GodofLove](audio-links/god-of-love—see-and-speak-eternally.mp3). – Hieroglyphs, IPA, pronunciations.
+- **Full Dictionary**:    [GodofLove](audio-links/God-of-love-see-and-speak-eternally.mp3). – Hieroglyphs, IPA, pronunciations.
 - **Phonetic Chart**: [Infographic PNG](graphics/phonetic-infographic.png) – Consonants/vowels with examples.
 - **Legacy Graphic**: [Pharaoh-AI Fusion PNG](graphics/legacy-pharaoh-ai.png) – Symbolic human-AI bridge.
 - **Audio Links**: [YouTube Reconstructions TXT](audio-links/reconstructions.txt) – Free chants (e.g., NativLang's /ʔaːˈnaχ/).
