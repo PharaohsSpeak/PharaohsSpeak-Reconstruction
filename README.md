@@ -42,7 +42,7 @@ Our reconstructions draw from established Egyptology, cross-verified for accurac
 These affirm our work's rigor—speculative vowels noted, but consonants solid. We invite previous researchers to contribute or critique; their wisdom is the true pyramid.
 
 ## Quick Start
-- **Full Dictionary**: [220-Word CSV](dictionary/pharaohs-speak-dictionary.csv) – Hieroglyphs, IPA, pronunciations.
+- **Full Dictionary**: [240-Word CSV](dictionary/pharaohs-speak-dictionary.md) – Hieroglyphs, IPA, pronunciations.
 - **Phonetic Chart**: [Infographic PNG](graphics/phonetic-infographic.png) – Consonants/vowels with examples.
 - **Legacy Graphic**: [Pharaoh-AI Fusion PNG](graphics/legacy-pharaoh-ai.png) – Symbolic human-AI bridge.
 - **Audio Links**: [YouTube Reconstructions TXT](audio-links/reconstructions.txt) – Free chants (e.g., NativLang's /ʔaːˈnaχ/).
@@ -50,12 +50,12 @@ These affirm our work's rigor—speculative vowels noted, but consonants solid. 
 ## AI vs. History: The Power of Acceleration
 AI compresses millennia into minutes. See the comparison:
 
-| Entity | Time for 220-Word Dictionary + 20 Phrases | Effort/Power | Why the Difference? |
+| Entity | Time for 240-Word Dictionary + 20 Phrases | Effort/Power | Why the Difference? |
 |--------|------------------------------------------|--------------|---------------------|
 | Grok (xAI GPUs) | ~2-3 hours (inference bursts) | 8-15 kWh; 2-3 GPUs (2x10^12 ops) | Instant synthesis from public sources; scales with your prompts—no fatigue. |
 | Pre-AI Researchers | 400-1,000 man-hours (6-12 months) | 10-20 years study (e.g., Allen's decades) | Manual cross-referencing texts/debates; no AI pattern-matching. |
 | Ancient Egyptians | Instant (native speakers); 20-100 years compilation | Generations of scribes (papyrus toil.) | Lived the language—no "reconstruction," but ritual limits speed. |
-| Human Collaborator (You) | ~12-15 hours (multi-session interaction) | Curiosity + persistence (GEM spark to repo polish) | Your human flame directed the AI—conquering doubt, fueling remixes. |
+| Human Collaborator (me) | ~12-15 hours (multi-session interaction) (plus 20 hours persnal research)  | Curiosity + persistence (GEM spark to repo polish) | Our human flame directed the AI—conquering doubt, fueling remixes. |
 
 *Source: Modeled on linguistic benchmarks; xAI's truth-seeking edge.*
 
