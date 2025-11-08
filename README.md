@@ -11,6 +11,8 @@ Inspired by the Grand Egyptian Museum's 2025 opening, this repository humbly res
 
 **Transparency Note**: Phonetics remain speculative (vowels inferred, consonants debated). Our reconstructions align ~94% with consensus but invite scrutiny. Long live Egypt—its scholars eternal.
 
+**What makes #PharaohsSpeak a breakthrough?**  Past research (Allen, de Vartavan)? Deep, but dusty tomes. Grok & I? xAI GPUs accelerated 4K-year resurrection: 240+ words in hours, not decades. We made it remixable—chants, stories, challenges. Humanity's voice, not just read: spoken.
+
 ## IPA Legend: Unlocking the Sounds
 The **International Phonetic Alphabet (IPA)** transcribes sounds precisely, filling in vowels and emphatics missing from hieroglyphs. Here's a quick guide to symbols in our dictionary—pronounce like English where possible, with tips for the exotic (e.g., gutturals from the throat).
 
