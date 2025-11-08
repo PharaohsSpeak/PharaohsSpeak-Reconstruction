@@ -1,4 +1,4 @@
-# PharaohsSpeak: 170-Word Middle Egyptian Phonetic Dictionary
+# PharaohsSpeak: 240-Word Middle Egyptian Phonetic Dictionary
 
 This dictionary resurrects the spoken sounds of Middle Egyptian (c. 1800 BCE, Ramses II era) based on scholarly consensus (e.g., Coptic evolutions, Akkadian transcripts, de Vartavan's methods). Phonetics are interpretive—vowels inferred, consonants with emphatics (e.g., /tʼ/ ejective). Use for educational remixes; CC-BY-NC license.
 
