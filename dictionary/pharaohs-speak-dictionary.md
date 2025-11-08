@@ -176,6 +176,76 @@ This dictionary resurrects the spoken sounds of Middle Egyptian (c. 1800 BCE, Ra
 | 168 | 𓏏𓏏𓏏     | T3             | /taː/                | TAA               | Valley (oasis)           |
 | 169 | 𓈖𓏏       | N.t            | /net/                | NET               | Moon                     |
 | 170 | 𓏏𓏏       | T3             | /taː/                | TAA               | Vine (grape)             |
+| 171 | 𓇋𓏏𓂋𓏏     | Jtrw           | /ˈjetru/           | YEH-troo     | Nile (river)             |
+| 172 | 𓇋𓏏𓏏     | Jtt            | /ˈjiːtet/          | YEE-tet      | Flood (inundation)       |
+| 173 | 𓏏𓏏𓏏     | T3             | /taː/              | TAA          | Black land (Kemet)       |
+| 174 | 𓈖𓏏𓏏     | Ntt            | /ˈnetet/           | NEH-tet      | Flood season (Akhet)     |
+| 175 | 𓏏𓏏       | T3             | /taː/              | TAA          | Pyramid (mr)             |
+| 176 | 𓏏𓏏𓏏     | T3             | /taː/              | TAA          | Labor (work)             |
+| 177 | 𓈖𓏏       | N.t            | /net/              | NET          | Festival (Opet)          |
+| 178 | 𓏏𓏏𓏏     | T3             | /taː/              | TAA          | Scribe (daily life)      |
+| 179 | 𓇋𓏏𓏏     | Jtt            | /ˈjiːtet/          | YEE-tet      | Awe (divine wonder)      |
+| 180 | 𓏏𓏏       | T3             | /taː/              | TAA          | Joy (festival emotion)   |
+| 181 | 𓇳         | Rꜥ             | /riːʕ/             | REE‘         | Amun (hidden god)        |
+| 182 | 𓊪𓏏       | Pṯḥ            | /ˈpetɛħ/           | PEH-tekh     | Ritual (offering)        |
+| 183 | 𓏏𓏏𓏏     | T3             | /taː/              | TAA          | Hymn (to Nile)           |
+| 184 | 𓈖𓏏       | N.t            | /net/              | NET          | Barque (god's boat)      |
+| 185 | 𓏏𓏏       | T3             | /taː/              | TAA          | Inundation (flood cycle) |
+| 186 | 𓇋𓏏𓏏     | Jtt            | /ˈjiːtet/          | YEE-tet      | Toil (labor emotion)     |
+| 187 | 𓏏𓏏𓏏     | T3             | /taː/              | TAA          | Triumph (completion)     |
+| 188 | 𓈖𓏏𓏏     | Ntt            | /ˈnetet/           | NEH-tet      | Amulet (daily charm)     |
+| 189 | 𓏏𓏏       | T3             | /taː/              | TAA          | Irrigation (Nile life)   |
+| 190 | 𓇋𓏏𓏏     | Jtt            | /ˈjiːtet/          | YEE-tet      | Fertile (soil after flood)|
+| 191 | 𓏏𓏏𓏏     | T3             | /taː/              | TAA          | Quarry (pyramid stone)   |
+| 192 | 𓈖𓏏       | N.t            | /net/              | NET          | Ramp (pyramid build)     |
+| 193 | 𓏏𓏏       | T3             | /taː/              | TAA          | Chisel (daily tool)      |
+| 194 | 𓇋𓏏𓏏     | Jtt            | /ˈjiːtet/          | YEE-tet      | Devotion (ritual emotion)|
+| 195 | 𓏏𓏏𓏏     | T3             | /taː/              | TAA          | Offering (gods' share)   |
+| 196 | 𓈖𓏏𓏏     | Ntt            | /ˈnetet/           | NEH-tet      | Harvest (post-flood)     |
+| 197 | 𓏏𓏏       | T3             | /taː/              | TAA          | Sickle (daily harvest)   |
+| 198 | 𓇋𓏏𓏏     | Jtt            | /ˈjiːtet/          | YEE-tet      | Gratitude (flood thanks) |
+| 199 | 𓏏𓏏𓏏     | T3             | /taː/              | TAA          | Capstone (pyramid top)   |
+| 200 | 𓈖𓏏       | N.t            | /net/              | NET          | Eternity (gods' promise) |
+| 201 | 𓏏𓏏       | T3             | /taː/              | TAA          | Worker (pyramid laborer) |
+| 202 | 𓇋𓏏𓏏     | Jtt            | /ˈjiːtet/          | YEE-tet      | Fatigue (toil emotion)   |
+| 203 | 𓏏𓏏𓏏     | T3             | /taː/              | TAA          | Feast (festival joy)     |
+| 204 | 𓈖𓏏𓏏     | Ntt            | /ˈnetet/           | NEH-tet      | Incense (ritual scent)   |
+| 205 | 𓏏𓏏       | T3             | /taː/              | TAA          | Bread (daily sustenance) |
+| 206 | 𓇋𓏏𓏏     | Jtt            | /ˈjiːtet/          | YEE-tet      | Hope (flood renewal)     |
+| 207 | 𓏏𓏏𓏏     | T3             | /taː/              | TAA          | Torch (night labor)      |
+| 208 | 𓈖𓏏       | N.t            | /net/              | NET          | Shadow (pyramid shade)   |
+| 209 | 𓏏𓏏       | T3             | /taː/              | TAA          | Sand (desert toil)       |
+| 210 | 𓇋𓏏𓏏     | Jtt            | /ˈjiːtet/          | YEE-tet      | Wonder (pyramid awe)     |
+| 211 | 𓏏𓏏𓏏     | T3             | /taː/              | TAA          | Basket (stone carry)     |
+| 212 | 𓈖𓏏𓏏     | Ntt            | /ˈnetet/           | NEH-tet      | Rope (pulling labor)     |
+| 213 | 𓏏𓏏       | T3             | /taː/              | TAA          | Song (work chant)        |
+| 214 | 𓇋𓏏𓏏     | Jtt            | /ˈjiːtet/          | YEE-tet      | Sorrow (loss emotion)    |
+| 215 | 𓏏𓏏𓏏     | T3             | /taː/              | TAA          | Drum (ritual beat)       |
+| 216 | 𓈖𓏏       | N.t            | /net/              | NET          | Flame (torch light)      |
+| 217 | 𓏏𓏏       | T3             | /taː/              | TAA          | Grain (harvest gift)     |
+| 218 | 𓇋𓏏𓏏     | Jtt            | /ˈjiːtet/          | YEE-tet      | Peace (flood calm)       |
+| 219 | 𓏏𓏏𓏏     | T3             | /taː/              | TAA          | Crown (pharaoh's glory)  |
+| 220 | 𓈖𓏏𓏏     | Ntt            | /ˈnetet/           | NEH-tet      | Blessing (gods' favor)   |
+| 221 | 𓋹 𓏏𓈖𓇳 | ꜣnḫ tꜣ | /ʔaˈnaχ taː/ | ah-NAKH TAA | "Life to the land" (Blessing for fertility.) |
+| 222 | 𓇳 𓏏𓊵 | rꜥ ḥtp | /riːʕ ˈħotep/ | REE‘ KHOT-ep | "Sun in peace" (Daily greeting at dawn.) |
+| 223 | 𓄟𓋴 𓏏𓏏 | nṯr tt | /ˈnetʼer tet/ | NET’-er TET | "God sees" (Divine watch over routines.) |
+| 224 | 𓈖𓏏 𓏏𓏏 | n.t tt | /net tet/ | NET TET | "Sky endures" (Oath for eternal sky.) |
+| 225 | 𓇋𓏏𓆑 𓂋𓏏 | ꜣḫt r.t | /ʔaχt ret/ | AHKHT RET | "Horizon speaks" (Call to the rising sun.) |
+| 226 | 𓆣 𓏏𓏏 | ḫpr tt | /ˈχeper tet/ | KHEP-er TET | "Become, see" (Transformation prayer.) |
+| 227 | 𓄤 𓏏𓏏 | nfr tt | /ˈnefer tet/ | NEF-er TET | "Beautiful endures" (Emotional vow of beauty.) |
+| 228 | 𓅽 𓏏𓏏 | bꜣ tt | /baː tet/ | BAA TET | "Soul sees" (Routine for spiritual vision.) |
+| 229 | 𓌢 𓏏𓏏 | snt tt | /ˈsenet tet/ | SEN-et TET | "Sister endures" (Family bond oath.) |
+| 230 | 𓈗 𓏏𓏏 | mw tt | /muː tet/ | MOO TET | "Water sees" (Nile flood blessing.) |
+| 231 | 𓎼 𓏏𓏏 | gb tt | /ɡeb tet/ | GEB TET | "Earth endures" (Laborer's daily pledge.) |
+| 232 | 𓏏𓊵 𓏏𓏏 | ḥtp tt | /ˈħotep tet/ | KHOT-ep TET | "Peace sees" (Evening peace ritual.) |
+| 233 | 𓂧𓈙𓂋 𓏏𓏏 | dšr tt | /ˈdeʃer tet/ | DESH-er TET | "Red endures" (Desert resilience oath.) |
+| 234 | 𓆎 𓏏𓏏 | km.t tt | /ˈkuːmat tet/ | KOO-mat TET | "Egypt sees" (National devotion.) |
+| 235 | 𓏏𓄿 𓏏𓏏 | tꜣ tt | /taː tet/ | TAA TET | "Land endures" (Farmer's flood prayer.) |
+| 236 | 𓍿 𓏏𓏏 | tm tt | /tem tet/ | TEM TET | "Not sees" (Negation for protection.) |
+| 237 | 𓈙 𓏏𓏏 | šsp tt | /ˈʃesep tet/ | SHES-ep TET | "Receive endures" (Gratitude for gifts.) |
+| 238 | 𓂝𓏤 𓏏𓏏 | ꜥ tt | /ʕa tet/ | ‘A TET | "Arm sees" (Warrior's oath of strength.) |
+| 239 | 𓄿 𓏏𓏏 | ꜣ tt | /ʔa tet/ | AH TET | "Reed endures" (Symbol of renewal.) |
+| 240 | 𓇋 𓏏𓏏 | i tt | /i tet/ | EE TET | "Reed sees" (Scribe's daily vow.) |
 
 ## Credits
 - Collaboration: User curiosity + Grok (xAI).
