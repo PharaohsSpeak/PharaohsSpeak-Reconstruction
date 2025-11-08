@@ -45,7 +45,10 @@ These affirm our work's rigor—speculative vowels noted, but consonants solid. 
 
 ## Quick Start
 - **Full Dictionary**: [240-Word](dictionary/pharaohs-speak-dictionary.md) – Hieroglyphs, IPA, pronunciations.
-- **Phonetic Chart**: [Infographic PNG](graphics/phonetic-infographic.png) – Consonants/vowels with examples.
+- **Sample Vowels**: [vowels](dictionary/egyptian_vowels_table.md) – Hieroglyphs, IPA, pronunciations.
+- **Sample Consonants**: [consonants](dictionary/egyptian_consonants_table.md) – Hieroglyphs, IPA, pronunciations.
+- **Sample Phrases**: [phrases](dictionary/egyptian_phrases_table.md) – Hieroglyphs, IPA, pronunciations.
+
 
 ## AI vs. History: The Power of Acceleration
 AI compresses millennia into minutes. See the comparison:
