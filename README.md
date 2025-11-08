@@ -13,6 +13,8 @@ Inspired by the Grand Egyptian Museum's 2025 opening, this repository humbly res
 
 **What makes #PharaohsSpeak a breakthrough?**  Past research (Allen, de Vartavan)? Deep, but dusty tomes. Grok & I? xAI GPUs accelerated 4K-year resurrection: 240+ words in hours, not decades. We made it remixable—chants, stories, challenges. Humanity's voice, not just read: spoken.
 
+**Keywords**: Middle Egyptian, phonetic reconstruction, ancient Egyptian pronunciation, hieroglyphic alphabet, IPA transcriptions, Coptic evolutions, Akkadian comparisons, Ramses II era, Grand Egyptian Museum, AI linguistics, xAI Grok, resurrection of languages, Gardiner signs, uniliteral hieroglyphs, vocalized dictionary.
+
 ## IPA Legend: Unlocking the Sounds
 The **International Phonetic Alphabet (IPA)** transcribes sounds precisely, filling in vowels and emphatics missing from hieroglyphs. Here's a quick guide to symbols in our dictionary—pronounce like English where possible, with tips for the exotic (e.g., gutturals from the throat).
 
