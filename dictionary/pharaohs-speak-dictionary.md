@@ -2,6 +2,19 @@
 
 This dictionary resurrects the spoken sounds of Middle Egyptian (c. 1800 BCE, Ramses II era) based on scholarly consensus (e.g., Coptic evolutions, Akkadian transcripts, de Vartavan's methods). Phonetics are interpretive—vowels inferred, consonants with emphatics (e.g., /tʼ/ ejective). Use for educational remixes; CC-BY-NC license.
 
+| IPA Symbol | Sound Description | Example in Dictionary | Speak It Tip |
+|------------|-------------------|-----------------------|--------------|
+| /ʔ/       | Glottal stop (catch in throat) | ʔnḫ "life" (/ʔaˈnaχ/) | Like the break in "uh-oh" (ah-NAHKH). |
+| /ħ/       | Pharyngeal fricative (deep throat "h") | ḥtp "peace" (/ˈħotep/) | Raspy "kh" as in Arabic "ḥ" or Scottish "loch" (KHOT-ep). |
+| /χ/       | Velar fricative (back-throat "ch") | ḫpr "become" (/ˈχeper/) | Guttural "kh" like "Bach" in German (KHEP-er). |
+| /ʃ/       | Sibilant "sh" | šsp "receive" (/ˈʃesep/) | Standard "sh" as in "she" (SHES-ep). |
+| /tʼ/      | Ejective "t" (popped with air burst) | nṯr "god" (/ˈnetʼer/) | "T" with a glottal pop, like a quick spit (NET’-er). |
+| /dʼ/      | Ejective "d" | ḏd "say" (/dʼed/) | "D" with ejective burst (DJED). |
+| /aː/      | Long "ah" | tꜣ "land" (/taː/) | Held "ah" as in "father" (TAA). |
+| /iː/      | Long "ee" | rꜥ "sun" (/riːʕ/) | Long "ee" as in "see" (REE‘). |
+| /uː/      | Long "oo" | mw "water" (/muː/) | Long "oo" as in "moon" (MOO). |
+| ˈ
+
 ## Full Table
 
 | #   | Hieroglyphs | Transliteration | IPA                  | Speak It          | English                  |
