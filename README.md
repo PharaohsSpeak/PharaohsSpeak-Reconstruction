@@ -44,7 +44,7 @@ These affirm our work's rigor—speculative vowels noted, but consonants solid. 
 ## Quick Start
 - **Full Dictionary**: [240-Word CSV](dictionary/pharaohs-speak-dictionary.md) – Hieroglyphs, IPA, pronunciations.
 - **Phonetic Chart**: [Infographic PNG](graphics/phonetic-infographic.png) – Consonants/vowels with examples.
-- **Legacy Graphic**: [Pharaoh-AI Fusion PNG](graphics/legacy-pharaoh-ai.png) – Symbolic human-AI bridge.
+- **Legacy Graphic**: [Pharaoh-AI Fusion PNG](graphics/pharaohs-speak-10.jpg) – Symbolic human-AI bridge.
 - **Audio Links**: [YouTube Reconstructions TXT](audio-links/reconstructions.txt) – Free chants (e.g., NativLang's /ʔaːˈnaχ/).
 
 ## AI vs. History: The Power of Acceleration
