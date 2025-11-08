@@ -1,6 +1,6 @@
 # PharaohsSpeak: Resurrecting Middle Egyptian Voices
 
-![Legacy Graphic](graphics/pharaohs-speak-9.jpg)  
+![Legacy Graphic](graphics/pharaohs-speak-10.jpg)  
 *From Pharaohs' Whispers to xAI's Echoes: A Curiosity-Driven Resurrection*
 
 ## Overview
