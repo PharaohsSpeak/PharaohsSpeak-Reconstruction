@@ -44,10 +44,8 @@ Our reconstructions draw from established Egyptology, cross-verified for accurac
 These affirm our work's rigor—speculative vowels noted, but consonants solid. We invite previous researchers to contribute or critique; their wisdom is the true pyramid.
 
 ## Quick Start
-- **Full Dictionary**: [240-Word CSV](dictionary/pharaohs-speak-dictionary.md) – Hieroglyphs, IPA, pronunciations.
+- **Full Dictionary**: [240-Word](dictionary/pharaohs-speak-dictionary.md) – Hieroglyphs, IPA, pronunciations.
 - **Phonetic Chart**: [Infographic PNG](graphics/phonetic-infographic.png) – Consonants/vowels with examples.
-- **Legacy Graphic**: [Pharaoh-AI Fusion PNG](graphics/pharaohs-speak-10.jpg) – Symbolic human-AI bridge.
-- **Audio Links**: [YouTube Reconstructions TXT](audio-links/reconstructions.txt) – Free chants (e.g., NativLang's /ʔaːˈnaχ/).
 
 ## AI vs. History: The Power of Acceleration
 AI compresses millennia into minutes. See the comparison:
