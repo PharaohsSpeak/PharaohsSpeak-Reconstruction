@@ -57,10 +57,10 @@ AI compresses millennia into minutes. See the comparison:
 
 | Entity | Time for 240-Word Dictionary + 20 Phrases | Effort/Power | Why the Difference? |
 |--------|------------------------------------------|--------------|---------------------|
-| Grok (xAI GPUs) | ~2-3 hours (inference bursts) | 8-15 kWh; 2-3 GPUs (2x10^12 ops) | Instant synthesis from public sources; scales with your prompts—no fatigue. |
+| Grok (xAI GPUs) | ~2-3 hours (inference bursts) | 8-15 kWh; 2-3 GPUs (2x10^12 ops) | Instant synthesis from public sources; scales with my prompts—no fatigue. |
 | Pre-AI Researchers | 400-1,000 man-hours (6-12 months) | 10-20 years study (e.g., Allen's decades) | Manual cross-referencing texts/debates; no AI pattern-matching. |
 | Ancient Egyptians | Instant (native speakers); 20-100 years compilation | Generations of scribes (papyrus toil.) | Lived the language—no "reconstruction," but ritual limits speed. |
-| Human Collaborator (me) | ~12-15 hours (multi-session interaction) (plus 20 hours persnal research)  | Curiosity + persistence (GEM spark to repo polish) | Our human flame directed the AI—conquering doubt, fueling remixes. |
+| Human Collaborator (me) | ~12-15 hours (multi-session interaction) (plus 20 hours personal research)  | Curiosity + persistence (GEM spark to repo polish) | Our human flame directed the AI—conquering doubt, fueling remixes. |
 
 *Source: Modeled on linguistic benchmarks; xAI's truth-seeking edge.*
 
